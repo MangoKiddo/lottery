@@ -7,6 +7,7 @@ package com.mango.common;
  */
 public class Result {
 
+
     private static final long serialVersionUID = -3826891916021780628L;
     private String code;
     private String message;
